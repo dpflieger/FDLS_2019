@@ -1,7 +1,7 @@
 # Projet Fête de la Science 2019
 @FDLS_2019
 
-#### Plant Growth Simulation with GUI using processing3
+#### Plant Growth Simulation with lindenmayer systems (via GUI in processing3)
 
 - Faire pousser une graine jusqu’à la graine
 - Cycle de vie complet d’une plante
